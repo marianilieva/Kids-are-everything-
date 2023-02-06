@@ -87,7 +87,7 @@ hr
         padding: 6% 20%;
         font-size: 30px;
         text-align: center;
-        background-image: url('/images/header.jpg');
+        background-image: url('/header.jpg');
         color: pink;
         text-shadow: 5px 5px 5px rgb(231, 19, 111);
     }
